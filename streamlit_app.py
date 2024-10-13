@@ -1,6 +1,8 @@
 import streamlit as st
 from openai import OpenAI
 
+#This is a chatbot template from Streamlit Application
+
 # Show title and description.
 st.title("💬 Chatbot")
 st.write(
